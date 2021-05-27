@@ -7,7 +7,7 @@
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      and distribution as defined by Sections 1 through 10 of this document.
 
       "Licensor" shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
@@ -172,6 +172,11 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+      
+  10. this piece of code / program can be used by everyone as is 
+      without any kind of modification. unless granted permission in written.
+      and re distrubtion without copy of this licence could cause a
+      Major treath for those who do so.
 
    END OF TERMS AND CONDITIONS
 
@@ -186,7 +191,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2021] [Maynard Dacosta (Guithub/junelover)]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
