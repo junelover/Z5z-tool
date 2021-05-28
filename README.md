@@ -10,8 +10,8 @@ Zenfone 5z tool (based on platform tools)
 
 **V1.0**
 
-base code and flash functions
-added flash recovery
-added zip sideload
-added reboot to bootloader
+base code and flash functions\
+added flash recovery\
+added zip sideload\
+added reboot to bootloader\
 added platform tools version: 31.0.0
